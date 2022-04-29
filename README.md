@@ -7,9 +7,9 @@ Front-End Developer💻
 Front End/UI developer with experience in developing User Interfaces(UI) Applications and web Application using HTML ,CSS, JavaScript, React JS, Bootstrap, Tailwind CSS, jQuery, AJAX, JSON.
 
 * 🌍  I'm based in Noida, Uttar Pradesh
-* 🖥️  See my portfolio at [https://sattyamsingh.netlify.app/](http://https://sattyamsingh2.netlify.app/)
+* 🖥️  See my portfolio at [https://sattyamsingh.netlify.app](http://https://sattyamsingh2.netlify.app)
 * ✉️  You can contact me at [rk0177cs@gmail.com](mailto:rk0177cs@gmail.com)/ +91-9455562123
-* 🚀  I'm currently working on [Event Management App](http://https://allevents.netlify.app/)
+* 🚀  I'm currently working on [Event Management App](http://https://allevents.netlify.app)
 * 🧠  I'm learning JavaScript, ReactJS and React Native.
 * 🤝  I'm open to collaborating on Projects on ReactJS and React Native.
 
